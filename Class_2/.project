@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Class_2</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>6. ClassII 練習程式</name>
+			<type>2</type>
+			<location>C:/Users/USER/eclipse-workspace/Class_2/src/6. ClassII 練習程式</location>
+		</link>
+		<link>
+			<name>src/6. ClassII 練習程式</name>
+			<type>2</type>
+			<location>C:/Users/USER/eclipse-workspace/Class_2/src/6. ClassII 練習程式</location>
+		</link>
+	</linkedResources>
+</projectDescription>
